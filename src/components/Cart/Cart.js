@@ -39,7 +39,7 @@ const Cart = (props) => {
           <p>Total Price:{grandTotal}</p>
           <br></br>
           {
-              props.children
+              props.childrencd
           }
         </div>
     );
